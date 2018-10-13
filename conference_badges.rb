@@ -27,5 +27,5 @@ def printer(speaker)
   end
 
   assign_rooms(speaker).each do |room|
-    puts
+    puts assign_rooms
     
