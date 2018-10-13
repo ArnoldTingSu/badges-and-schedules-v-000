@@ -18,4 +18,4 @@ end
 def assign_rooms(speaker)
   speaker.map do |speaker|
   end
-    
+  end
