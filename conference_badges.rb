@@ -1,6 +1,6 @@
 # Write your code here.
 
-speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+speaker = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 room = [1,2,3,4,5,6,7]
   
 
