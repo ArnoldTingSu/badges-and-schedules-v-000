@@ -26,3 +26,5 @@ def printer(speaker)
     puts badge
   end
 end
+
+def assign_rooms(speaker)
